@@ -1,0 +1,7 @@
+# Folders generated only for QA — don't push
+slide_imgs/
+slide_imgs_v2/
+*.tmp
+.~lock.*
+__pycache__/
+.ipynb_checkpoints/
